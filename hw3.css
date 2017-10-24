@@ -1,0 +1,18 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.main{
+  display: flex;
+
+}
+
+.square {
+  background-color: blue;
+  width:100px;
+  height:100px;
+  border: 3px;
+  border-style: solid;
+
+
+}
